@@ -1,0 +1,10 @@
+fields:
+
+    static_files_section:
+        label: 'Cookie Free Domain Config'
+        type: section
+
+    cookie_free_domain:
+        label: 'Static Domain for assets'
+        comment: 'Main app domain will be replaced by this setting'
+        span: left

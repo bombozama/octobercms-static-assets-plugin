@@ -1,2 +1,2 @@
-# octobercms-static-assets-plugin
-Implements a twig filter that allows to change domain to static domain
+# Static Domain Plugin
+Implements a twig filter that allows to change regular defaulr domain to static domain
